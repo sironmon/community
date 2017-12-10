@@ -1,5 +1,5 @@
 {
-  "secretToken" : "[YOUR_SECRET_TOKEN]",
+  "secretToken" : "[YOUR_SECRET_TOKEN YOUR_SECRET_TOKEN]",
   "stageBucket" : "[YOUR_STAGING_BUCKET_NAME]",
   "location" : "[YOUR_REGION]",
   "deployments": [
